@@ -7,6 +7,7 @@
 
 ![Demo](https://cloud.githubusercontent.com/assets/3001525/14691258/d38b0f0c-0782-11e6-8602-8ef5e1511bf1.png)
 
+Forked: Contains updated remotedev-server version (0.2.6) to stop App crashing when trying to run the local development server with React Native 0.57.0... while waiting for the original repo to be fixed.  
 Injecting [remotedev-app](https://github.com/zalmoxisus/remotedev-app) monitor into official [Remote debugger](https://facebook.github.io/react-native/docs/debugging.html#chrome-developer-tools) of React Native. (formerly `remote-redux-devtools-on-debugger`)
 
 We can use it with:
